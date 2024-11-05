@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ufufiulo.github.io/UwT/sitemap_index.txt
+Sitemap: https://ufufiulo.github.io/WXG/sitemap_index.txt
+Sitemap: https://ufufiulo.github.io/eqy/sitemap_index.txt
+Sitemap: https://ufufiulo.github.io/yRj/sitemap_index.txt
